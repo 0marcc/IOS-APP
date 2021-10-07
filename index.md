@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 Calculator
 ## Header 2
-### Header 3
+This is a calculator app
 
 - Bulleted
 - List
